@@ -1,3 +1,6 @@
+"""
+Simples código para calcular o fatorial de um número
+"""
 number = int(input('Qual o número deseja calcular o fatorial: '))
 fatorial = 1
 
